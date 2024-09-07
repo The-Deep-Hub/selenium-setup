@@ -88,7 +88,7 @@ This enables the dynamic configuration of the WebDriver for each browser, giving
 
 ### Example: Firefox WebDriver with Custom Options
 
-```bash
+```python
 driver = get_driver(
     'firefox', 
     proxy="http://anotherproxy:8080", 
