@@ -27,7 +27,7 @@ This library provides a flexible and customizable setup for managing Selenium We
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/The-Deep-Hub/selenium-setup.git>
    ```
 
 2. Install the required dependencies:
