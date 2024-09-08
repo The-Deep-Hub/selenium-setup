@@ -1,0 +1,11 @@
+# Ensure all text files use LF in the repository but use the appropriate line ending for each platform
+* text=auto
+
+# Force specific file types to use LF line endings in the repo (e.g., scripts)
+*.sh eol=lf
+*.py eol=lf
+
+# Keep binary files as they are (without altering line endings)
+*.png binary
+*.jpg binary
+*.svg binary
