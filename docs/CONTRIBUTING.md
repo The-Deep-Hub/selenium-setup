@@ -38,14 +38,14 @@ We love seeing contributions from the community. Follow these steps to submit co
 
 ### Fork the Repository
 
-1. Go to the project’s [GitHub repository](https://github.com/yourusername/yourproject) and click the "Fork" button to create your own copy of the repository.
+1. Go to the project’s [GitHub repository](https://github.com/The-Deep-Hub/selenium-setup.git) and click the "Fork" button to create your own copy of the repository.
 
 ### Clone Your Fork
 
 2. Clone your fork locally using the following command:
 
    ```bash
-   git clone https://github.com/your-username/yourproject.git
+   git clone https://github.com/The-Deep-Hub/selenium-setup.git
    ```
 
 3. Change into the project directory
