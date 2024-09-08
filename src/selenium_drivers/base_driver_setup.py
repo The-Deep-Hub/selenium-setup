@@ -156,3 +156,6 @@ class IEDriverSetup(BaseDriverSetup):
     def create_webdriver_instance(self, service, options) -> IEWebDriver:
         """Create IE WebDriver instance."""
         return webdriver.Ie(service=service, options=options)
+    
+
+ChromeDriverSetup()
