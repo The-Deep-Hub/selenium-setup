@@ -1,6 +1,6 @@
 import unittest
 from selenium.common.exceptions import WebDriverException
-from selenium_drivers.base_driver_setup import ChromeDriverSetup
+from src.selenium_drivers.base_driver_setup import ChromeDriverSetup
 from unittest.mock import patch
 
 

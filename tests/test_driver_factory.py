@@ -1,5 +1,5 @@
 import unittest
-from selenium_drivers.driver_factory import get_driver
+from src.selenium_drivers.driver_factory import get_driver
 
 class TestDriverFactory(unittest.TestCase):
     
